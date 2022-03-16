@@ -1,0 +1,21 @@
+* {
+    font-family: corporate-s,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+h1 {
+    font-family: unit-slab,Georgia,Times,serif;
+    text-align: center;
+}
+
+.title-center {
+    text-align: center;
+    
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
